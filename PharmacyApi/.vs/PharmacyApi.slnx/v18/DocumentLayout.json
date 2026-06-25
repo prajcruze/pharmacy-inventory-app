@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:services\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\services\\imedicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:services\\imedicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:data\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\models\\createmedicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:models\\createmedicinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\services\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:services\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\services\\jsonfilestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:services\\jsonfilestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\models\\createsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:models\\createsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|c:\\projects\\publicis sapient assignment - manual\\pharmacyapi\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503524BC-7C19-4F80-B14F-0AB8BDF0B0B1}|PharmacyApi.csproj|solutionrelative:models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicinesController.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "Controllers\\MedicinesController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwC0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:28:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:21:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "Services\\SaleService.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\SaleService.cs",
+              "RelativeToolTip": "Services\\SaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:20:05.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicineService.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\MedicineService.cs",
+              "RelativeDocumentMoniker": "Services\\MedicineService.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\MedicineService.cs",
+              "RelativeToolTip": "Services\\MedicineService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:18:44.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMedicineService.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\IMedicineService.cs",
+              "RelativeDocumentMoniker": "Services\\IMedicineService.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\IMedicineService.cs",
+              "RelativeToolTip": "Services\\IMedicineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:17:33.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:33:19.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T07:05:54.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "medicines.json",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Data\\medicines.json",
+              "RelativeDocumentMoniker": "Data\\medicines.json",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Data\\medicines.json",
+              "RelativeToolTip": "Data\\medicines.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T07:35:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T10:38:41.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\ISaleService.cs",
+              "RelativeDocumentMoniker": "Services\\ISaleService.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\ISaleService.cs",
+              "RelativeToolTip": "Services\\ISaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:19:32.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateMedicineRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Models\\CreateMedicineRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CreateMedicineRequest.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Models\\CreateMedicineRequest.cs",
+              "RelativeToolTip": "Models\\CreateMedicineRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:10:22.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JsonFileStore.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\JsonFileStore.cs",
+              "RelativeDocumentMoniker": "Services\\JsonFileStore.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Services\\JsonFileStore.cs",
+              "RelativeToolTip": "Services\\JsonFileStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:12:20.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateSaleRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Models\\CreateSaleRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CreateSaleRequest.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Models\\CreateSaleRequest.cs",
+              "RelativeToolTip": "Models\\CreateSaleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:11:01.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:10:49.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Models\\Medicine.cs",
+              "ToolTip": "C:\\Projects\\Publicis Sapient Assignment - Manual\\PharmacyApi\\Models\\Medicine.cs",
+              "RelativeToolTip": "Models\\Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:09:56.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

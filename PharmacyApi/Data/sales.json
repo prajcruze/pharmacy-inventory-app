@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "MedicineId": 1,
+    "MedicineName": "Paracetamol 500mg Tablets",
+    "QuantitySold": 1,
+    "UnitPrice": 25.50,
+    "TotalPrice": 25.50,
+    "SaleDate": "2026-06-24T07:47:33.6818522Z"
+  },
+  {
+    "Id": 2,
+    "MedicineId": 1,
+    "MedicineName": "Paracetamol 500mg Tablets",
+    "QuantitySold": 1,
+    "UnitPrice": 25.50,
+    "TotalPrice": 25.50,
+    "SaleDate": "2026-06-24T11:00:36.1485842Z"
+  },
+  {
+    "Id": 3,
+    "MedicineId": 3,
+    "MedicineName": "Vitamin C 500mg Tablets",
+    "QuantitySold": 5,
+    "UnitPrice": 150.00,
+    "TotalPrice": 750.00,
+    "SaleDate": "2026-06-24T11:00:59.3025928Z"
+  }
+]

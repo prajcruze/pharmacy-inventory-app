@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "MedicineId": 1,
+    "MedicineName": "Paracetamol 500mg Tablets",
+    "QuantitySold": 1,
+    "UnitPrice": 25.50,
+    "TotalPrice": 25.50,
+    "SaleDate": "2026-06-24T07:47:33.6818522Z"
+  }
+]

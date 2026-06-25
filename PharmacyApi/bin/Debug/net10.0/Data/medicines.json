@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol 500mg Tablets",
+    "Notes": "Fever/pain.",
+    "ExpiryDate": "2027-03-15T00:00:00",
+    "Quantity": 119,
+    "Price": 25.50,
+    "Brand": "Crocin"
+  },
+  {
+    "Id": 2,
+    "FullName": "Amoxicillin 250mg Capsules",
+    "Notes": "Antibiotic.",
+    "ExpiryDate": "2026-07-10T00:00:00",
+    "Quantity": 8,
+    "Price": 89.00,
+    "Brand": "Mox"
+  },
+  {
+    "Id": 3,
+    "FullName": "Vitamin C 500mg Tablets",
+    "Notes": "Supplement.",
+    "ExpiryDate": "2028-01-20T00:00:00",
+    "Quantity": 5,
+    "Price": 150.00,
+    "Brand": "Limcee"
+  },
+  {
+    "Id": 4,
+    "FullName": "Ibuprofen 400mg Tablets",
+    "Notes": "Anti-inflammatory, take after food.",
+    "ExpiryDate": "2027-09-01T00:00:00",
+    "Quantity": 60,
+    "Price": 42.00,
+    "Brand": "Brufen"
+  }
+]
